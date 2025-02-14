@@ -1,0 +1,15 @@
+{
+  "fileLocations": [
+      {
+          "URIs": [
+              "s3://ecommerceetl/transformed_data.csv"
+          ]
+      }
+  ],
+  "globalUploadSettings": {
+      "format": "CSV",
+      "delimiter": ",",
+      "textqualifier": "\"",
+      "containsHeader": "true"
+  }
+}
